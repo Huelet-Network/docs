@@ -1,0 +1,3 @@
+[site]
+bucket = "docs/wwwroot/"
+entry-point = "docs/site/"
